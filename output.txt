@@ -1,0 +1,166 @@
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+1
+Title:
+Sonal's Book
+Title must contain letters and spaces only.
+Title:
+Sonals book
+Author:
+Sonal
+ISBN (11 digits):
+123456789
+ISBN must be a numeric value with exactly 11 digits.
+ISBN (11 digits):
+12345678901
+Year (4 digits, optional):
+31345
+Year must be a 4‑digit number (e.g. 2024), or leave blank.
+Year (4 digits, optional):
+2011
+Book added
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+1
+Title:
+Mayureshs Book
+Author:
+Mayuresh
+ISBN (11 digits):
+09876543210
+Year (4 digits, optional):
+Book added
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+2
+Name:
+Mayuresh Jadhav
+Member ID (4 digits):
+31852
+Member ID must be numeric with exactly 4 digits.
+Member ID (4 digits):
+3185
+Member registered
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+2
+Name:
+Sonal
+Member ID (4 digits):
+2158
+Member registered
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+3
+Member ID (4 digits):
+2158
+ISBN (11 digits):
+12345678901
+Book checked out successfully. Due date: 2026-03-24
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+6
+Total: 2, Available: 1, Overdue: 0
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+5
+Search (title/author):
+Mayureshs Book
+Mayureshs Book by Mayuresh (09876543210) - Available
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+5
+Search (title/author):
+Sonals Book
+Sonals book by Sonal (12345678901) - Borrowed by 2158
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+4
+Member ID (4 digits):
+2158
+Book title:
+Sonals book
+Book returned successfully.
+
+=== Library Menu ===
+1. Add Book
+2. Register Member
+3. Borrow Book
+4. Return Book
+5. Search Book
+6. Stats
+0. Save & Exit
+Choose:
+0
+Data saved

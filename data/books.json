@@ -1,0 +1,1 @@
+{"12345678901": {"title": "Sonals book", "author": "Sonal", "isbn": "12345678901", "year": "2011", "available": true, "borrowed_by": null, "due_date": null, "date_added": "2026-03-10"}, "09876543210": {"title": "Mayureshs Book", "author": "Mayuresh", "isbn": "09876543210", "year": null, "available": true, "borrowed_by": null, "due_date": null, "date_added": "2026-03-10"}}
